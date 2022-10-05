@@ -10,7 +10,7 @@ public class Main {
         System.out.println("Hello world!master4");
         System.out.println("Hello world!hot2branch");
         System.out.println("Hello world!push test");
-        System.out.println("Hello world!pull test");
+        System.out.println("Hello world!pull test123");
         System.out.println("Hello world!pull conflict test");
 
     }
