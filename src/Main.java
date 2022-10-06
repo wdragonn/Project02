@@ -11,7 +11,7 @@ public class Main {
         System.out.println("Hello world!hot2branch");
         System.out.println("Hello world!push test");
         System.out.println("Hello world!pull test12345678901234");
-        System.out.println("Hello world!pull conflict test");
+        System.out.println("Hello world!pull conflict test1");
 
     }
 }
