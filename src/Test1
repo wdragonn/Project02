@@ -1,5 +1,5 @@
 public class Main {
     public void test() {
-        System.out.println("testt123456789!");
+        System.out.println("test1234567890!");
     }
 }
